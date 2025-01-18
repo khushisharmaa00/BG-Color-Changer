@@ -3,6 +3,7 @@ This is a simple JavaScript project that changes the background color of a webpa
 
 
 **How to Use**
+
 1)Clone the repository:
 git clone https://github.com/your-username/background-color-changer.git
 2)Open index.html in your browser.
